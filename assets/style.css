@@ -19,3 +19,28 @@
     left: 10px;
 }
 
+table{
+    border-collapse: collapse;
+}
+
+.heading{
+    color: white;
+    background-color: rgb(82, 123, 255);
+}
+
+.cell{
+    width: 30%;
+}
+
+
+.big-cell{
+    width: 40%;
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+.yellow{
+    background-color: yellow;
+}
