@@ -1,0 +1,20 @@
+.banner{
+    background-color: rgb(43, 147, 250);
+    background-image: url(../img/pattern.png);
+    width: 100%;
+    height: 20vh;
+    position: relative;
+}
+
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
