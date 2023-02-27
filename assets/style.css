@@ -44,3 +44,24 @@ table{
 .yellow{
     background-color: yellow;
 }
+
+.monitor{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 10px;
+}
+
+.graph{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
+.link-img{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-decoration: solid;
+}
